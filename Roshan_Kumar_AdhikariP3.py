@@ -1,4 +1,3 @@
-
 #1
 name = input("Enter your name: ")
 
